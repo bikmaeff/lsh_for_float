@@ -1,6 +1,6 @@
 code for building the project:
-$ mkdir build
-$ cd build
+$ mkdir build \\
+$ cd build \\
 $ cmake ../
 $ make
 takes about 4 minutes
